@@ -7,10 +7,10 @@
 
 ## 🧠 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React
-**Backend:** Python, REST APIs, C
-**Cloud:** AWS (Lambda, S3, DynamoDB, API Gateway, Cognito, etc.)
-**Tools:** Git, GitHub, Postman, Docker (basic)
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, REST APIs, C
+- **Cloud:** AWS (Lambda, S3, DynamoDB, API Gateway, Cognito, etc.)
+- **Tools:** Git, GitHub, Postman, Docker (basic)
 
 ## 🏗️ Flagship Projects
 ### ☁️ Cloud Attendance Platform
