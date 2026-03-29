@@ -13,27 +13,6 @@
   <a href="https://lumenstack-ai.onrender.com">LumenStack AI Live</a>
 </p>
 
-## Spotlight: LumenStack AI
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agarwalujala3-lang/LumenStack-AI/main/public/brand-lockup.svg" alt="LumenStack AI" width="420" />
-</p>
-
-<p align="center">
-  Architecture intelligence workspace for repository review, compare mode, platform signals, Mermaid diagrams, and codebase chat.
-</p>
-
-<p align="center">
-  <a href="https://lumenstack-ai.onrender.com">Live App</a> |
-  <a href="https://github.com/agarwalujala3-lang/LumenStack-AI">Repository</a> |
-  <a href="https://lumenstack-ai.onrender.com/workspaces.html">Workspaces</a> |
-  <a href="https://lumenstack-ai.onrender.com/integrations.html">Integrations</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agarwalujala3-lang/LumenStack-AI/main/public/lumenstack-linkedin-thumbnail.svg" alt="LumenStack AI preview" width="920" />
-</p>
-
 ## What I Build
 
 - AWS serverless systems using Lambda, S3, DynamoDB, API Gateway, CloudFront, Cognito, and Textract
@@ -45,10 +24,10 @@
 
 | Project | What it does | Stack | Live / Repo |
 | --- | --- | --- | --- |
-| **ReceiptPulse** | Private receipt-processing workspace with sign-in, user-scoped uploads, OCR extraction, duplicate decision flow, rename/delete actions, and live dashboard reporting. | AWS Lambda, S3, DynamoDB, API Gateway, Cognito, Textract, CloudFront, JavaScript | [Live](https://d2ijsg7huf2h2p.cloudfront.net) | [Repo](https://github.com/agarwalujala3-lang/ReceiptPulse) |
-| **LumenStack AI** | AI-powered codebase analyzer that explains architecture, generates Mermaid diagrams, supports compare mode, exports, and codebase chat. | Node.js, Express, JavaScript, OpenAI, Mermaid | [Live](https://lumenstack-ai.onrender.com) | [Repo](https://github.com/agarwalujala3-lang/LumenStack-AI) |
-| **Amazon UI Clone** | Hand-built Amazon homepage recreation focused on layout replication, section design, and frontend structure. | HTML, CSS, GitHub Pages, AWS CloudFront | [Live](https://d22imnrsdj0eeu.cloudfront.net) | [Repo](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
-| **Valentine Interactive Web Experience** | Animated single-page interactive website with media-driven transitions, custom interaction flow, and static deployment. | HTML, CSS, JavaScript, GitHub Pages, AWS CloudFront | [Live](https://d3lrcs5kkqcuas.cloudfront.net) | [Repo](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
+| **ReceiptPulse** | Private receipt-processing workspace with sign-in, user-scoped uploads, OCR extraction, duplicate decision flow, rename/delete actions, and live dashboard reporting. | AWS Lambda, S3, DynamoDB, API Gateway, Cognito, Textract, CloudFront, JavaScript | [Live](https://d2ijsg7huf2h2p.cloudfront.net) / [Repo](https://github.com/agarwalujala3-lang/ReceiptPulse) |
+| **LumenStack AI** | AI-powered codebase analyzer that explains architecture, generates Mermaid diagrams, supports compare mode, exports, and codebase chat. | Node.js, Express, JavaScript, OpenAI, Mermaid | [Live](https://lumenstack-ai.onrender.com) / [Repo](https://github.com/agarwalujala3-lang/LumenStack-AI) |
+| **Amazon UI Clone** | Hand-built Amazon homepage recreation focused on layout replication, section design, and frontend structure. | HTML, CSS, GitHub Pages, AWS CloudFront | [Live](https://d22imnrsdj0eeu.cloudfront.net) / [Repo](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
+| **Valentine Interactive Web Experience** | Animated single-page interactive website with media-driven transitions, custom interaction flow, and static deployment. | HTML, CSS, JavaScript, GitHub Pages, AWS CloudFront | [Live](https://d3lrcs5kkqcuas.cloudfront.net) / [Repo](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
 
 ## Experience Snapshot
 
