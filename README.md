@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">LinkedIn</a> |
   <a href="https://github.com/agarwalujala3-lang">GitHub</a> |
   <a href="https://d2ikqjoiirpv7k.cloudfront.net">Portfolio</a> |
-  <a href="https://d2ijsg7huf2h2p.cloudfront.net">ReceiptPulse Live</a> |
+  <a href="https://d2ijsg7huf2h2p.cloudfront.net/app.html?v=20260331">ReceiptPulse Live</a> |
   <a href="https://lumenstack-ai.onrender.com">LumenStack AI Live</a>
 </p>
 
