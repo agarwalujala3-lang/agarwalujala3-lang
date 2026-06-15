@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/agarwalujala3-lang/ujala-portfolio/main/content/portfolio-lockup.svg" alt="Ujala Agarwal" width="420" />
+
   <h1>Ujala Agarwal</h1>
-  <p><strong>Final-year B.Tech student focused on cloud computing, AWS, and real-world software projects.</strong></p>
+  <p><strong>Final-year B.Tech student building cloud, AWS, and application-focused software projects.</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-ujala-agarwal-3">
@@ -12,26 +14,34 @@
   </p>
 </div>
 
-## About
+## Overview
 
-I like building projects that connect backend workflows, cloud services, and usable interfaces. My public work is a mix of serverless experiments, application-style projects, and frontend builds that I ship as complete repositories rather than isolated snippets.
+I like building projects that connect backend workflows, cloud services, and usable interfaces. Most of my public work sits at the point where application logic, deployment thinking, and frontend delivery meet.
 
-## Focus Areas
+## What Recruiters Will Find Here
 
-- AWS and serverless application workflows
-- Backend logic and end-to-end project structure
-- Frontend implementation with clean layout and responsive UI
+- Public AWS and serverless-oriented project work
+- Repositories that show end-to-end application building, not isolated snippets
+- Frontend implementation work alongside backend and cloud experimentation
 
 ## Selected Projects
 
-| Project | Snapshot | Stack Signal | Repo |
+| Project | What It Shows | Tech Signal | Repository |
 | --- | --- | --- | --- |
-| **ReceiptPulse** | Serverless receipt processing system using AWS Textract and Lambda. | CSS | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
-| **LumenStack** | Public JavaScript project under `LumenStack-AI`. | JavaScript | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
-| **Portfolio** | Interactive portfolio website for Ujala Agarwal. | HTML | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
-| **Amazon** | Public HTML UI clone project under `Amazon-UI-Clone`. | HTML | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
-| **Valentine** | Public JavaScript webpage project under `VALENTINE-CHAUDHRAIN`. | JavaScript | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
-| **Nexora** | Public JavaScript project under `Nexora-Prime`. | JavaScript | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
+| **ReceiptPulse** | A serverless receipt-processing project built around AWS Textract and Lambda. | CSS | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
+| **LumenStack** | A JavaScript project published as `LumenStack-AI`. | JavaScript | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
+| **Portfolio** | An interactive portfolio website published as `ujala-portfolio`. | HTML | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
+| **Amazon** | A public UI clone project published as `Amazon-UI-Clone`. | HTML | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
+| **Valentine** | A public JavaScript webpage project published as `VALENTINE-CHAUDHRAIN`. | JavaScript | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
+| **Nexora** | A public JavaScript project published as `Nexora-Prime`. | JavaScript | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
+
+## Focus Areas
+
+| Area | Current Direction |
+| --- | --- |
+| Cloud and AWS | Serverless workflows, deployment-oriented thinking, and AWS project builds |
+| Backend Development | Application logic, project structure, and practical end-to-end implementation |
+| Frontend Delivery | Clean layouts, responsive UI, and usable project interfaces |
 
 ## Core Stack
 
@@ -45,13 +55,11 @@ I like building projects that connect backend workflows, cloud services, and usa
   <img src="https://img.shields.io/badge/Textract-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Textract" />
 </p>
 
-## Current Direction
+<details>
+  <summary><strong>Notes on this profile</strong></summary>
 
-- Building stronger AWS-backed projects with clearer structure
-- Improving backend depth while keeping the UI presentable and usable
-- Turning public repos into stronger proof of hands-on engineering work
+- This README is written to stay aligned with repositories that are currently public on the GitHub account.
+- Project display names are simplified for readability, while links point to the current public repo names.
+- The formatting is intentionally GitHub-native so it renders cleanly on profile pages without custom CSS or scripts.
 
-## Notes
-
-- This README is intentionally written from currently public GitHub information.
-- Project names are cleaned up for readability, while links point to the current public repo names.
+</details>
