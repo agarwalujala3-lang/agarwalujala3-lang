@@ -1,75 +1,70 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/agarwalujala3-lang/ujala-portfolio/main/content/portfolio-lockup.svg" alt="Ujala Agarwal" width="460" />
-</p>
 
-<p align="center">
-  Cloud and AI full-stack engineer building live products with strong backend architecture and polished user experience.
-</p>
+  <h1>Ujala Agarwal</h1>
+  <p><strong>Final-year B.Tech student | Cloud Computing and AWS enthusiast | Building real-world serverless applications.</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">LinkedIn</a> |
-  <a href="https://github.com/agarwalujala3-lang">GitHub</a> |
-  <a href="https://d2ikqjoiirpv7k.cloudfront.net">Portfolio</a> |
-  <a href="https://d2ijsg7huf2h2p.cloudfront.net">ReceiptPulse Live</a> |
-  <a href="https://lumenstack-ai.onrender.com">LumenStack AI Live</a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/agarwalujala3-lang">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://d2ikqjoiirpv7k.cloudfront.net">
+      <img src="https://img.shields.io/badge/Portfolio-Live-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
-# Ujala Agarwal
+## Profile Summary
 
-I build portfolio projects as live product systems, not just code demos. My strongest work combines AWS backend architecture, AI workflows, and product-focused frontend delivery.
+I build hands-on software projects with a strong interest in cloud systems, AWS services, and practical application development.
 
-Open to backend and full-stack software roles where I can ship production-quality features end to end.
+This README is intentionally aligned to the repositories and public profile details currently visible on my GitHub account.
 
-## At a Glance
+## Current Public Focus
 
-- shipped and deployed live cloud and AI products
-- work spans architecture, API design, frontend UX, and deployment
-- focus on practical product quality, not demo-only prototypes
+| Area | Focus |
+| --- | --- |
+| Cloud and AWS | Serverless patterns, AWS services, deployment-oriented learning |
+| Backend Development | Practical application logic and real project workflows |
+| Frontend Delivery | Clean layouts, responsive UI work, and interface implementation |
 
-## Featured Live Work
+## Current Public Repositories
 
-Only projects that are live and properly finished are listed here.
+| Repository | Public Signal | Links |
+| --- | --- | --- |
+| **automated-receipt-manager** | Serverless receipt processing system using AWS Textract and Lambda | [Repo](https://github.com/agarwalujala3-lang/automated-receipt-manager) |
+| **Amazon-Clone-UI** | Frontend UI recreation project | [Repo](https://github.com/agarwalujala3-lang/Amazon-Clone-UI) |
+| **wildrydes-site** | Public HTML project in the AWS project ecosystem | [Repo](https://github.com/agarwalujala3-lang/wildrydes-site) |
+| **smart-attendance-system** | Public repository currently listed on the profile | [Repo](https://github.com/agarwalujala3-lang/smart-attendance-system) |
+| **ujala** | Practice repository currently listed on the profile | [Repo](https://github.com/agarwalujala3-lang/ujala) |
 
-| Project | Type | What it proves | Stack | Live / Repo |
-| --- | --- | --- | --- | --- |
-| **ReceiptPulse** | Flagship AWS System | Private user-scoped upload pipeline with Textract extraction, duplicate review flow, and dashboard analytics. | AWS Lambda, S3, DynamoDB, API Gateway, Cognito, Textract, CloudFront, JavaScript | [Live](https://d2ijsg7huf2h2p.cloudfront.net) · [Repo](https://github.com/agarwalujala3-lang/ReceiptPulse) |
-| **LumenStack AI** | AI Tooling Product | Multi-platform repository intelligence with compare mode, Mermaid diagrams, retrieval-backed chat, and exports. | Node.js, Express, JavaScript, OpenAI API, Mermaid, HTML, CSS | [Live](https://lumenstack-ai.onrender.com) · [Repo](https://github.com/agarwalujala3-lang/LumenStack-AI) |
-| **Amazon UI Clone** | Frontend Execution Build | Dense commercial UI recreation proving layout control, spacing discipline, and static deployment quality. | HTML, CSS | [Live](https://d22imnrsdj0eeu.cloudfront.net) · [Repo](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
+## Profile Notes
 
-## What I Build
-
-- serverless AWS workflows with private user-scoped data flow
-- AI-powered developer tools with explainable output and practical UX
-- frontend systems that prioritize interaction quality and visual intent
-- deployable end-to-end products that can be tested live
-
-## Delivery Proof
-
-- Built and shipped a live AWS receipt workspace with Cognito auth, Textract extraction, duplicate decision flow, rename/delete actions, and dashboard analytics.
-- Built and shipped a live AI codebase intelligence product with multi-platform repository intake, architecture mapping, compare mode, exports, and guided chat.
-- Maintained a portfolio system that keeps featured project positioning and branding consistent across repositories.
-- Executed projects from architecture through deployment instead of stopping at local prototypes.
+- This profile references only repositories that are currently visible on the public GitHub profile.
+- Unverified project claims and unverified repo links have been removed.
+- Live deployment links for individual projects are omitted here until they are confirmed against the current public repo set.
 
 ## Core Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Lambda](https://img.shields.io/badge/Lambda-111827?style=for-the-badge&logo=awslambda&logoColor=FF9900)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-111827?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
-![Cognito](https://img.shields.io/badge/Cognito-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Textract](https://img.shields.io/badge/Textract-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Lambda-111827?style=for-the-badge&logo=awslambda&logoColor=FF9900" alt="Lambda" />
+  <img src="https://img.shields.io/badge/Textract-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Textract" />
+</p>
 
-## Current Focus
+## Current Direction
 
-- stronger backend architecture and API design
-- production-style AWS deployment patterns
-- AI-assisted developer products with clear UX
-- higher signal project storytelling for recruiter and engineer audiences
+- Building stronger AWS-backed projects with clearer architecture and better delivery quality.
+- Improving backend depth while continuing to sharpen frontend execution.
+- Growing public work into stronger end-to-end portfolio projects.
 
-## Profile Note
+## Open To
 
-This repository powers my GitHub profile README and reflects the current shipped status of my featured projects.
+Backend engineering, cloud-focused software roles, and full-stack opportunities where I can continue building practical software systems.
