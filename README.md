@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ujala Agarwal</h1>
-  <p><strong>Final-year B.Tech student | Cloud Computing and AWS enthusiast | Building real-world serverless applications.</strong></p>
+  <p><strong>Final-year B.Tech student focused on cloud computing, AWS, and real-world software projects.</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/your-linkedin-ujala-agarwal-3">
@@ -12,35 +12,26 @@
   </p>
 </div>
 
-## Profile Summary
+## About
 
-I build hands-on software projects with a strong interest in cloud systems, AWS services, and practical application development.
+I like building projects that connect backend workflows, cloud services, and usable interfaces. My public work is a mix of serverless experiments, application-style projects, and frontend builds that I ship as complete repositories rather than isolated snippets.
 
-This README is intentionally aligned to the repositories and public profile details currently visible on my GitHub account.
+## Focus Areas
 
-## Current Public Focus
+- AWS and serverless application workflows
+- Backend logic and end-to-end project structure
+- Frontend implementation with clean layout and responsive UI
 
-| Area | Focus |
-| --- | --- |
-| Cloud and AWS | Serverless patterns, AWS services, deployment-oriented learning |
-| Backend Development | Practical application logic and real project workflows |
-| Frontend Delivery | Clean layouts, responsive UI work, and interface implementation |
+## Selected Projects
 
-## Projects
-
-| Project | Repo |
-| --- | --- |
-| **ReceiptPulse** | [github.com/agarwalujala3-lang/ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
-| **LumenStack** | [github.com/agarwalujala3-lang/LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
-| **Portfolio** | [github.com/agarwalujala3-lang/ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
-| **Amazon** | [github.com/agarwalujala3-lang/Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
-| **Valentine** | [github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
-| **Nexora** | [github.com/agarwalujala3-lang/Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
-
-## Profile Notes
-
-- This profile references repositories that are currently public on the GitHub account.
-- Project names are presented in a cleaner display format while keeping their current public repo links.
+| Project | Snapshot | Stack Signal | Repo |
+| --- | --- | --- | --- |
+| **ReceiptPulse** | Serverless receipt processing system using AWS Textract and Lambda. | CSS | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
+| **LumenStack** | Public JavaScript project under `LumenStack-AI`. | JavaScript | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
+| **Portfolio** | Interactive portfolio website for Ujala Agarwal. | HTML | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
+| **Amazon** | Public HTML UI clone project under `Amazon-UI-Clone`. | HTML | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
+| **Valentine** | Public JavaScript webpage project under `VALENTINE-CHAUDHRAIN`. | JavaScript | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
+| **Nexora** | Public JavaScript project under `Nexora-Prime`. | JavaScript | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
 
 ## Core Stack
 
@@ -56,10 +47,11 @@ This README is intentionally aligned to the repositories and public profile deta
 
 ## Current Direction
 
-- Building stronger AWS-backed projects with clearer architecture and better delivery quality.
-- Improving backend depth while continuing to sharpen frontend execution.
-- Growing public work into stronger end-to-end portfolio projects.
+- Building stronger AWS-backed projects with clearer structure
+- Improving backend depth while keeping the UI presentable and usable
+- Turning public repos into stronger proof of hands-on engineering work
 
-## Open To
+## Notes
 
-Backend engineering, cloud-focused software roles, and full-stack opportunities where I can continue building practical software systems.
+- This README is intentionally written from currently public GitHub information.
+- Project names are cleaned up for readability, while links point to the current public repo names.
