@@ -16,32 +16,43 @@
 
 ## Overview
 
-I like building projects that connect backend workflows, cloud services, and usable interfaces. Most of my public work sits at the point where application logic, deployment thinking, and frontend delivery meet.
+I build public projects around cloud workflows, application logic, and usable interfaces. My GitHub is centered on hands-on software work rather than isolated snippets, with a strong lean toward AWS-oriented builds and frontend delivery that feels complete.
 
-## What Recruiters Will Find Here
+## Recently Updated
 
-- Public AWS and serverless-oriented project work
-- Repositories that show end-to-end application building, not isolated snippets
-- Frontend implementation work alongside backend and cloud experimentation
+| Project | Public Signal | Last Public Push |
+| --- | --- | --- |
+| **Atlasiq Ops Platform** | JavaScript repo published as `Atlasiq-Ops-Platform` | June 27, 2026 |
+| **ReceiptPulse** | Serverless receipt processing system using AWS Textract and Lambda | June 27, 2026 |
+| **LumenStack AI** | JavaScript repo published as `LumenStack-AI` | June 27, 2026 |
+| **Portfolio** | Interactive portfolio website for Ujala Agarwal | June 21, 2026 |
 
-## Selected Projects
+## Featured Projects
 
-| Project | What It Shows | Tech Signal | Repository |
+| Project | What It Shows | Tech | Repository |
 | --- | --- | --- | --- |
-| **ReceiptPulse** | A serverless receipt-processing project built around AWS Textract and Lambda. | CSS | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
-| **LumenStack** | A JavaScript project published as `LumenStack-AI`. | JavaScript | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
-| **Portfolio** | An interactive portfolio website published as `ujala-portfolio`. | HTML | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
-| **Amazon** | A public UI clone project published as `Amazon-UI-Clone`. | HTML | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
-| **Valentine** | A public JavaScript webpage project published as `VALENTINE-CHAUDHRAIN`. | JavaScript | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
-| **Nexora** | A public JavaScript project published as `Nexora-Prime`. | JavaScript | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
+| **ReceiptPulse** | Public serverless receipt-processing project built around AWS Textract and Lambda. | CSS | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
+| **LumenStack AI** | Public JavaScript application repository published as `LumenStack-AI`. | JavaScript | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
+| **Atlasiq Ops Platform** | Public JavaScript repository published as `Atlasiq-Ops-Platform`. | JavaScript | [Atlasiq-Ops-Platform](https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform) |
+| **Portfolio** | Interactive portfolio website for Ujala Agarwal. | HTML | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
+| **Nexora** | Public JavaScript repository published as `Nexora-Prime`. | JavaScript | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
+| **Safety Copilot** | Public Dart repository published as `Safety-Copilot`. | Dart | [Safety-Copilot](https://github.com/agarwalujala3-lang/Safety-Copilot) |
+
+## Additional Public Builds
+
+| Project | Type | Repository |
+| --- | --- | --- |
+| **Amazon UI Clone** | HTML UI clone project | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
+| **DockerTestApp** | JavaScript repository | [DockerTestApp](https://github.com/agarwalujala3-lang/DockerTestApp) |
+| **Valentine** | JavaScript webpage project published as `VALENTINE-CHAUDHRAIN` | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
 
 ## Focus Areas
 
 | Area | Current Direction |
 | --- | --- |
-| Cloud and AWS | Serverless workflows, deployment-oriented thinking, and AWS project builds |
-| Backend Development | Application logic, project structure, and practical end-to-end implementation |
-| Frontend Delivery | Clean layouts, responsive UI, and usable project interfaces |
+| Cloud and AWS | Serverless workflows, deployment-oriented thinking, and AWS-backed project builds |
+| Backend Development | Application logic, project structure, and end-to-end implementation |
+| Frontend Delivery | Clean layouts, responsive UI, and stronger presentation across public projects |
 
 ## Core Stack
 
@@ -56,10 +67,10 @@ I like building projects that connect backend workflows, cloud services, and usa
 </p>
 
 <details>
-  <summary><strong>Notes on this profile</strong></summary>
+  <summary><strong>Profile Notes</strong></summary>
 
-- This README is written to stay aligned with repositories that are currently public on the GitHub account.
+- This README is intentionally grounded in repositories that are public on the GitHub account as of June 27, 2026.
 - Project display names are simplified for readability, while links point to the current public repo names.
-- The formatting is intentionally GitHub-native so it renders cleanly on profile pages without custom CSS or scripts.
+- The layout stays GitHub-native on purpose, so it renders cleanly without custom CSS or scripts.
 
 </details>
