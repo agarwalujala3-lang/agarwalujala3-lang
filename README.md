@@ -6,7 +6,7 @@
   <p>Public work centered on hands-on builds, recent iteration, and product-style frontend presentation.</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/your-linkedin-ujala-agarwal-3">
+    <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/agarwalujala3-lang">
@@ -14,6 +14,9 @@
     </a>
     <a href="https://github.com/agarwalujala3-lang?tab=repositories">
       <img src="https://img.shields.io/badge/Public_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+    </a>
+    <a href="https://ujala-portfolio-world.netlify.app/">
+      <img src="https://img.shields.io/badge/Live_Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
     </a>
   </p>
 </div>
@@ -73,7 +76,7 @@ I use GitHub as a public record of what I am actually building: cloud-oriented s
 <details>
   <summary><strong>Profile Notes</strong></summary>
 
-- This README is intentionally grounded in repositories that are public on the GitHub account as of June 27, 2026.
+- This README is intentionally grounded in repositories that are public on the GitHub account as of June 28, 2026.
 - Project display names are simplified for readability, while links point to the current public repo names.
 - The layout stays GitHub-native on purpose, so it renders cleanly without custom CSS or scripts.
 
