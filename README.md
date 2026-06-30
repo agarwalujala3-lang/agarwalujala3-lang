@@ -1,112 +1,69 @@
 <div align="center">
-  <img src="assets/calm-ai-hero.svg" alt="" width="980" />
-  <h1>Ujala Agarwal</h1>
-  <p><strong>Building production-minded cloud systems and polished web experiences.</strong></p>
-  <p>Final-year B.Tech student focused on AWS-backed workflows, cleaner frontend execution, and public projects with live deployments.</p>
-  <p><sub>Decorative visuals are kept separate from the hiring-relevant content, so the profile stays easy for recruiters, ATS tools, and AI-assisted screening to parse.</sub></p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/agarwalujala3-lang">
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://github.com/agarwalujala3-lang?tab=repositories">
-      <img src="https://img.shields.io/badge/Public_Repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://ujala-portfolio-world.netlify.app/">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
-    </a>
-    <a href="https://receipt-pulse.netlify.app/">
-      <img src="https://img.shields.io/badge/ReceiptPulse_Live-125b50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ReceiptPulse Live" />
-    </a>
-    <a href="https://lumenstack-ai.onrender.com/">
-      <img src="https://img.shields.io/badge/LumenStack_Live-123b66?style=for-the-badge&logo=render&logoColor=white" alt="LumenStack Live" />
-    </a>
-    <a href="https://atlasiq-ops-platform.onrender.com/">
-      <img src="https://img.shields.io/badge/Atlasiq_Live-1E3A8A?style=for-the-badge&logo=render&logoColor=white" alt="Atlasiq Live" />
-    </a>
-  </p>
+  <img src="assets/calm-ai-hero.svg" alt="" width="100%" />
 </div>
 
-## Profile Snapshot
+# Ujala Agarwal
 
-This GitHub profile is designed as a clean public proof surface: active repositories, verified live product links, and recent work that combines cloud workflows, application logic, and stronger frontend presentation.
+<p align="center">
+  Final-year B.Tech student building cloud-first applications, AWS serverless workflows, and polished frontend experiences with a product mindset.
+</p>
 
-The visual layer is intentionally lightweight and GitHub-native. The important hiring signal stays in normal text, which helps readability for recruiters while keeping the page polished and distinctive.
-
-## Live App Suite
-
-| Experience | Live Link | Repository | Public Signal |
-| --- | --- | --- | --- |
-| **Portfolio** | [ujala-portfolio-world.netlify.app](https://ujala-portfolio-world.netlify.app/) | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) | Interactive portfolio website for Ujala Agarwal |
-| **ReceiptPulse** | [receipt-pulse.netlify.app](https://receipt-pulse.netlify.app/) | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) | Serverless receipt processing system using AWS Textract and Lambda |
-| **LumenStack AI** | [lumenstack-ai.onrender.com](https://lumenstack-ai.onrender.com/) | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) | Public JavaScript repository with live app deployment |
-| **Atlasiq Ops Platform** | [atlasiq-ops-platform.onrender.com](https://atlasiq-ops-platform.onrender.com/) | [Atlasiq-Ops-Platform](https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform) | Public JavaScript repository with a live app deployment |
-
-## Current Momentum
-
-| Repository | Public Signal | Last Public Push |
-| --- | --- | --- |
-| **ujala-portfolio** | Interactive portfolio website for Ujala Agarwal | June 28, 2026 |
-| **LumenStack-AI** | JavaScript repository | June 28, 2026 |
-| **ReceiptPulse** | Serverless receipt processing system using AWS Textract and Lambda | June 28, 2026 |
-| **Atlasiq-Ops-Platform** | JavaScript repository | June 28, 2026 |
-
-## Featured Work
+<p align="center">
+  <a href="https://ujala-portfolio-world.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/agarwalujala3-lang">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/agarwalujala3-lang?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_Repositories-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
+  </a>
+</p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>ReceiptPulse</h3>
-      <p>Public serverless receipt-processing project built around AWS Textract and Lambda.</p>
-      <p><strong>Stack:</strong> CSS</p>
-      <p><a href="https://receipt-pulse.netlify.app/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/ReceiptPulse">Repo</a></p>
+    <td width="33%" valign="top">
+      <strong>Cloud Systems</strong><br/>
+      Serverless workflows, AWS services, and deployment-oriented builds grounded in public project work.
     </td>
-    <td width="50%" valign="top">
-      <h3>LumenStack AI</h3>
-      <p>Public JavaScript repository published as <code>LumenStack-AI</code> with a live deployed app.</p>
-      <p><strong>Stack:</strong> JavaScript</p>
-      <p><a href="https://lumenstack-ai.onrender.com/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/LumenStack-AI">Repo</a></p>
+    <td width="33%" valign="top">
+      <strong>Frontend Quality</strong><br/>
+      Interfaces shaped to feel product-ready, structured, and visually confident rather than assignment-like.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Portfolio</h3>
-      <p>Interactive portfolio website for Ujala Agarwal.</p>
-      <p><strong>Stack:</strong> HTML</p>
-      <p><a href="https://ujala-portfolio-world.netlify.app/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/ujala-portfolio">Repo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Atlasiq Ops Platform</h3>
-      <p>Public JavaScript repository published as <code>Atlasiq-Ops-Platform</code>.</p>
-      <p><strong>Stack:</strong> JavaScript</p>
-      <p><a href="https://atlasiq-ops-platform.onrender.com/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform">Repo</a></p>
+    <td width="33%" valign="top">
+      <strong>Credible Signal</strong><br/>
+      This profile stays focused on shipped repos, live links, and public work that can be reviewed directly.
     </td>
   </tr>
 </table>
 
-## Project Shelf
+## Featured Deployments
 
-| Project | Type | Repository |
+| Product | What It Shows | Live App | Repository |
+| --- | --- | --- | --- |
+| **Portfolio** | Personal portfolio with polished presentation and public-facing UI work | [Open](https://ujala-portfolio-world.netlify.app/) | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
+| **ReceiptPulse** | Serverless receipt-processing workflow built around AWS Textract and Lambda | [Open](https://receipt-pulse.netlify.app/) | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
+| **LumenStack AI** | JavaScript application with a live deployed experience | [Open](https://lumenstack-ai.onrender.com/) | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
+| **Atlasiq Ops Platform** | Operations-focused JavaScript app with public deployment | [Open](https://atlasiq-ops-platform.onrender.com/) | [Atlasiq-Ops-Platform](https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform) |
+
+## Selected Repositories
+
+| Repository | Type | Link |
 | --- | --- | --- |
-| **Nexora** | JavaScript repository published as `Nexora-Prime` | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
-| **Safety Copilot** | Dart repository published as `Safety-Copilot` | [Safety-Copilot](https://github.com/agarwalujala3-lang/Safety-Copilot) |
-| **Amazon UI Clone** | HTML UI clone project | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
-| **DockerTestApp** | JavaScript repository | [DockerTestApp](https://github.com/agarwalujala3-lang/DockerTestApp) |
-| **Valentine** | JavaScript webpage project published as `VALENTINE-CHAUDHRAIN` | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
+| **Nexora-Prime** | Public JavaScript repository | [View Repo](https://github.com/agarwalujala3-lang/Nexora-Prime) |
+| **Safety-Copilot** | Public Dart repository | [View Repo](https://github.com/agarwalujala3-lang/Safety-Copilot) |
+| **Amazon-UI-Clone** | Public HTML UI clone project | [View Repo](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
+| **DockerTestApp** | Public JavaScript repository | [View Repo](https://github.com/agarwalujala3-lang/DockerTestApp) |
+| **VALENTINE-CHAUDHRAIN** | Public JavaScript web project | [View Repo](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
 
-## What This Profile Signals
+## Build Direction
 
-| Area | Current Direction |
-| --- | --- |
-| **Cloud and AWS** | Serverless workflows, deployment-oriented thinking, and AWS-backed project builds |
-| **Backend Development** | Application logic, project structure, and end-to-end implementation |
-| **Frontend Delivery** | Clean layouts, responsive UI, and stronger public-facing presentation |
+- Product-style presentation backed by visible work instead of placeholder claims.
+- Strong interest in cloud and application development, especially around AWS-oriented workflows.
+- Growing emphasis on frontend execution that feels clean, calm, and recruiter-ready.
 
 ## Core Stack
 
@@ -114,18 +71,17 @@ The visual layer is intentionally lightweight and GitHub-native. The important h
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
   <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Lambda-111827?style=for-the-badge&logo=awslambda&logoColor=FF9900" alt="Lambda" />
   <img src="https://img.shields.io/badge/Textract-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Textract" />
 </p>
 
 <details>
-  <summary><strong>Profile Notes</strong></summary>
+  <summary><strong>Profile Note</strong></summary>
 
-- This README is intentionally grounded in repositories and live app links that are public on the GitHub account as of June 30, 2026.
-- Live app links are included only where I could verify a current public deployment from your project repositories.
-- The layout stays GitHub-native on purpose, so it renders cleanly without custom CSS or scripts.
-- The hero banner is decorative only; all recruiter-facing information remains in selectable text for better accessibility and ATS compatibility.
+Only public repositories and verified live deployments are included here. The presentation is intentionally visual, but the hiring-relevant content remains in plain text for clean readability and accessibility.
+
+Updated June 30, 2026.
 
 </details>
