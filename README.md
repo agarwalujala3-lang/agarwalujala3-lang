@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/agarwalujala3-lang/ujala-portfolio/main/content/portfolio-lockup.svg" alt="Ujala Agarwal" width="420" />
+  <img src="https://raw.githubusercontent.com/agarwalujala3-lang/ujala-portfolio/main/content/portfolio-lockup.svg" alt="Ujala Agarwal" width="440" />
 
   <h1>Ujala Agarwal</h1>
   <p><strong>Final-year B.Tech student building cloud, AWS, and application-focused software projects.</strong></p>
@@ -15,15 +15,32 @@
     <a href="https://github.com/agarwalujala3-lang?tab=repositories">
       <img src="https://img.shields.io/badge/Public_Repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
     </a>
+  </p>
+
+  <p>
     <a href="https://ujala-portfolio-world.netlify.app/">
       <img src="https://img.shields.io/badge/Live_Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <a href="https://receipt-pulse.netlify.app/">
+      <img src="https://img.shields.io/badge/ReceiptPulse_Live-125b50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ReceiptPulse Live" />
+    </a>
+    <a href="https://lumenstack-ai.onrender.com/">
+      <img src="https://img.shields.io/badge/LumenStack_Live-123b66?style=for-the-badge&logo=render&logoColor=white" alt="LumenStack Live" />
     </a>
   </p>
 </div>
 
 ## First Look
 
-This GitHub profile is organized as a public proof surface: active repositories, recent updates, and project work that combines cloud workflows, application logic, and frontend execution.
+This GitHub profile is designed as a public proof surface: active repositories, live product links, and recent work that combines cloud workflows, application logic, and stronger frontend presentation.
+
+## Live App Suite
+
+| Experience | Live Link | Repository | Public Signal |
+| --- | --- | --- | --- |
+| **Portfolio** | [ujala-portfolio-world.netlify.app](https://ujala-portfolio-world.netlify.app/) | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) | Interactive portfolio website for Ujala Agarwal |
+| **ReceiptPulse** | [receipt-pulse.netlify.app](https://receipt-pulse.netlify.app/) | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) | Serverless receipt processing system using AWS Textract and Lambda |
+| **LumenStack AI** | [lumenstack-ai.onrender.com](https://lumenstack-ai.onrender.com/) | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) | Public JavaScript repository with live app deployment |
 
 ## Current Momentum
 
@@ -36,19 +53,43 @@ This GitHub profile is organized as a public proof surface: active repositories,
 
 ## Featured Work
 
-| Project | What It Shows | Stack | Repository |
-| --- | --- | --- | --- |
-| **ReceiptPulse** | Public serverless receipt-processing project built around AWS Textract and Lambda. | CSS | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
-| **LumenStack AI** | Public JavaScript repository published as `LumenStack-AI`. | JavaScript | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
-| **Atlasiq Ops Platform** | Public JavaScript repository published as `Atlasiq-Ops-Platform`. | JavaScript | [Atlasiq-Ops-Platform](https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform) |
-| **Portfolio** | Interactive portfolio website for Ujala Agarwal. | HTML | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
-| **Nexora** | Public JavaScript repository published as `Nexora-Prime`. | JavaScript | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
-| **Safety Copilot** | Public Dart repository published as `Safety-Copilot`. | Dart | [Safety-Copilot](https://github.com/agarwalujala3-lang/Safety-Copilot) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ReceiptPulse</h3>
+      <p>Public serverless receipt-processing project built around AWS Textract and Lambda.</p>
+      <p><strong>Stack:</strong> CSS</p>
+      <p><a href="https://receipt-pulse.netlify.app/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/ReceiptPulse">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>LumenStack AI</h3>
+      <p>Public JavaScript repository published as <code>LumenStack-AI</code> with a live deployed app.</p>
+      <p><strong>Stack:</strong> JavaScript</p>
+      <p><a href="https://lumenstack-ai.onrender.com/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/LumenStack-AI">Repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Portfolio</h3>
+      <p>Interactive portfolio website for Ujala Agarwal.</p>
+      <p><strong>Stack:</strong> HTML</p>
+      <p><a href="https://ujala-portfolio-world.netlify.app/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/ujala-portfolio">Repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Atlasiq Ops Platform</h3>
+      <p>Public JavaScript repository published as <code>Atlasiq-Ops-Platform</code>.</p>
+      <p><strong>Stack:</strong> JavaScript</p>
+      <p><a href="https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform">Repo</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Project Shelf
 
 | Project | Type | Repository |
 | --- | --- | --- |
+| **Nexora** | JavaScript repository published as `Nexora-Prime` | [Nexora-Prime](https://github.com/agarwalujala3-lang/Nexora-Prime) |
+| **Safety Copilot** | Dart repository published as `Safety-Copilot` | [Safety-Copilot](https://github.com/agarwalujala3-lang/Safety-Copilot) |
 | **Amazon UI Clone** | HTML UI clone project | [Amazon-UI-Clone](https://github.com/agarwalujala3-lang/Amazon-UI-Clone) |
 | **DockerTestApp** | JavaScript repository | [DockerTestApp](https://github.com/agarwalujala3-lang/DockerTestApp) |
 | **Valentine** | JavaScript webpage project published as `VALENTINE-CHAUDHRAIN` | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
@@ -76,8 +117,10 @@ This GitHub profile is organized as a public proof surface: active repositories,
 <details>
   <summary><strong>Profile Notes</strong></summary>
 
-- This README is intentionally grounded in repositories that are public on the GitHub account as of June 29, 2026.
-- Project display names are simplified for readability, while links point to the current public repo names.
+- This README is intentionally grounded in repositories and live app links that are public on the GitHub account as of June 29, 2026.
+- Live app links are included only where I could verify a current public deployment from your project repositories.
 - The layout stays GitHub-native on purpose, so it renders cleanly without custom CSS or scripts.
 
 </details>
+
+
