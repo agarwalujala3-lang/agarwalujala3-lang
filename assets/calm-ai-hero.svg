@@ -1,93 +1,116 @@
-<svg width="1400" height="560" viewBox="0 0 1400 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="620" viewBox="0 0 1400 620" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="88" y1="52" x2="1316" y2="510" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#071018"/>
-      <stop offset="0.54" stop-color="#0B1C2A"/>
-      <stop offset="1" stop-color="#07131E"/>
+    <linearGradient id="bg" x1="74" y1="40" x2="1322" y2="566" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050B12"/>
+      <stop offset="0.5" stop-color="#0A1824"/>
+      <stop offset="1" stop-color="#07111A"/>
     </linearGradient>
-    <radialGradient id="auroraLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 152) rotate(30) scale(360 238)">
-      <stop stop-color="#67E8F9" stop-opacity="0.3"/>
-      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(244 140) rotate(24) scale(340 214)">
+      <stop stop-color="#5EEAD4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="auroraRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1128 172) rotate(150) scale(344 224)">
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1114 164) rotate(158) scale(366 228)">
       <stop stop-color="#93C5FD" stop-opacity="0.26"/>
       <stop offset="1" stop-color="#93C5FD" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="centerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(702 312) rotate(90) scale(184 312)">
-      <stop stop-color="#5EEAD4" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    <radialGradient id="glowC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(714 404) rotate(90) scale(156 356)">
+      <stop stop-color="#C4B5FD" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="glass" x1="408" y1="116" x2="1020" y2="392" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="418" y1="122" x2="1018" y2="404" gradientUnits="userSpaceOnUse">
       <stop stop-color="white" stop-opacity="0.16"/>
       <stop offset="1" stop-color="white" stop-opacity="0.04"/>
     </linearGradient>
-    <linearGradient id="ringStroke" x1="552" y1="188" x2="858" y2="434" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A5F3FC" stop-opacity="0.92"/>
-      <stop offset="0.5" stop-color="#C4B5FD" stop-opacity="0.64"/>
-      <stop offset="1" stop-color="#93C5FD" stop-opacity="0.78"/>
-    </linearGradient>
-    <linearGradient id="waveStroke" x1="244" y1="308" x2="1158" y2="308" gradientUnits="userSpaceOnUse">
+    <linearGradient id="wave" x1="286" y1="302" x2="1088" y2="302" gradientUnits="userSpaceOnUse">
       <stop stop-color="#67E8F9"/>
-      <stop offset="0.48" stop-color="#D8B4FE"/>
+      <stop offset="0.46" stop-color="#E9D5FF"/>
       <stop offset="1" stop-color="#93C5FD"/>
     </linearGradient>
-    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="white" stroke-opacity="0.05"/>
+    <linearGradient id="ring" x1="578" y1="196" x2="858" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D1FAE5" stop-opacity="0.94"/>
+      <stop offset="0.55" stop-color="#C4B5FD" stop-opacity="0.62"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity="0.84"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="white" stroke-opacity="0.045"/>
     </pattern>
-    <filter id="softBlur" x="-120" y="-120" width="1640" height="800" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="blur" x="-100" y="-100" width="1600" height="820" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="34"/>
     </filter>
-    <filter id="panelShadow" x="94" y="94" width="1212" height="394" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feOffset dy="20"/>
+    <filter id="shadow" x="124" y="90" width="1152" height="430" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="22"/>
       <feGaussianBlur stdDeviation="28"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0.0117647 0 0 0 0 0.0588235 0 0 0 0 0.109804 0 0 0 0.4 0"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0117647 0 0 0 0 0.0509804 0 0 0 0 0.0941176 0 0 0 0.42 0"/>
       <feBlend in2="SourceGraphic" result="shape"/>
     </filter>
   </defs>
 
-  <rect x="20" y="20" width="1360" height="520" rx="36" fill="url(#bg)"/>
-  <rect x="20" y="20" width="1360" height="520" rx="36" fill="url(#grid)"/>
-  <rect x="20.75" y="20.75" width="1358.5" height="518.5" rx="35.25" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+  <rect x="20" y="20" width="1360" height="580" rx="38" fill="url(#bg)"/>
+  <rect x="20" y="20" width="1360" height="580" rx="38" fill="url(#grid)"/>
+  <rect x="20.75" y="20.75" width="1358.5" height="578.5" rx="37.25" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
 
-  <g filter="url(#softBlur)">
-    <ellipse cx="262" cy="152" rx="212" ry="146" fill="url(#auroraLeft)"/>
-    <ellipse cx="1128" cy="172" rx="208" ry="144" fill="url(#auroraRight)"/>
-    <ellipse cx="700" cy="348" rx="298" ry="120" fill="url(#centerGlow)"/>
+  <g filter="url(#blur)">
+    <ellipse cx="242" cy="144" rx="216" ry="140" fill="url(#glowA)"/>
+    <ellipse cx="1114" cy="164" rx="232" ry="148" fill="url(#glowB)"/>
+    <ellipse cx="714" cy="406" rx="314" ry="116" fill="url(#glowC)"/>
   </g>
 
-  <g filter="url(#panelShadow)">
-    <rect x="170" y="112" width="1060" height="316" rx="32" fill="url(#glass)"/>
-    <rect x="170.75" y="112.75" width="1058.5" height="314.5" rx="31.25" stroke="white" stroke-opacity="0.18" stroke-width="1.5"/>
+  <g filter="url(#shadow)">
+    <rect x="150" y="112" width="1100" height="344" rx="34" fill="url(#panel)"/>
+    <rect x="150.75" y="112.75" width="1098.5" height="342.5" rx="33.25" stroke="white" stroke-opacity="0.18" stroke-width="1.5"/>
 
-    <rect x="220" y="152" width="224" height="76" rx="22" fill="white" fill-opacity="0.07"/>
-    <rect x="956" y="152" width="224" height="76" rx="22" fill="white" fill-opacity="0.06"/>
-    <rect x="252" y="314" width="186" height="54" rx="18" fill="white" fill-opacity="0.06"/>
-    <rect x="964" y="314" width="186" height="54" rx="18" fill="white" fill-opacity="0.06"/>
+    <rect x="206" y="158" width="214" height="60" rx="18" fill="white" fill-opacity="0.07"/>
+    <rect x="978" y="158" width="214" height="60" rx="18" fill="white" fill-opacity="0.06"/>
+    <rect x="228" y="346" width="172" height="52" rx="16" fill="white" fill-opacity="0.06"/>
+    <rect x="1000" y="346" width="172" height="52" rx="16" fill="white" fill-opacity="0.06"/>
 
-    <circle cx="702" cy="268" r="116" stroke="url(#ringStroke)" stroke-opacity="0.86" stroke-width="2.2"/>
-    <circle cx="702" cy="268" r="78" stroke="white" stroke-opacity="0.12" stroke-width="1.5"/>
+    <circle cx="700" cy="284" r="120" stroke="url(#ring)" stroke-width="2.4" stroke-opacity="0.86"/>
+    <circle cx="700" cy="284" r="82" stroke="white" stroke-opacity="0.14" stroke-width="1.5"/>
+    <circle cx="700" cy="284" r="11" fill="#5EEAD4" fill-opacity="0.94"/>
+    <circle cx="626" cy="242" r="6.5" fill="#93C5FD" fill-opacity="0.9"/>
+    <circle cx="782" cy="326" r="6.5" fill="#C4B5FD" fill-opacity="0.82"/>
 
-    <path d="M258 276C344 246 420 206 500 206C584 206 612 310 700 310C790 310 820 196 910 196C986 196 1060 246 1146 274" stroke="url(#waveStroke)" stroke-width="3.2" stroke-linecap="round"/>
-    <path d="M270 300C356 272 428 236 502 236C580 236 618 334 700 334C784 334 824 226 902 226C976 226 1048 274 1132 300" stroke="white" stroke-opacity="0.16" stroke-width="1.7" stroke-linecap="round"/>
+    <path d="M286 292C368 262 442 218 514 218C596 218 624 328 702 328C786 328 814 208 904 208C974 208 1044 254 1114 290" stroke="url(#wave)" stroke-width="3.6" stroke-linecap="round"/>
+    <path d="M302 320C382 292 446 250 518 250C592 250 632 354 704 354C780 354 820 240 896 240C962 240 1028 284 1094 316" stroke="white" stroke-opacity="0.16" stroke-width="1.8" stroke-linecap="round"/>
 
-    <circle cx="702" cy="268" r="10" fill="#5EEAD4" fill-opacity="0.92"/>
-    <circle cx="632" cy="232" r="7" fill="#93C5FD" fill-opacity="0.86"/>
-    <circle cx="770" cy="306" r="7" fill="#C4B5FD" fill-opacity="0.74"/>
+    <text x="232" y="194" fill="#D1FAE5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">CLOUD SYSTEMS</text>
+    <text x="1000" y="194" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">LIVE DEPLOYMENTS</text>
+    <text x="250" y="378" fill="white" fill-opacity="0.88" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">AWS WORKFLOWS</text>
+    <text x="1022" y="378" fill="white" fill-opacity="0.88" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">PRODUCT UI</text>
   </g>
 
-  <g opacity="0.85">
-    <path d="M144 456C274 404 442 412 566 442" stroke="white" stroke-opacity="0.08" stroke-width="1.5" stroke-linecap="round"/>
-    <path d="M836 440C958 408 1098 410 1254 470" stroke="white" stroke-opacity="0.08" stroke-width="1.5" stroke-linecap="round"/>
+  <g>
+    <rect x="96" y="122" width="30" height="30" rx="10" fill="#5EEAD4" fill-opacity="0.14"/>
+    <rect x="96" y="170" width="30" height="30" rx="10" fill="#93C5FD" fill-opacity="0.14"/>
+    <rect x="96" y="218" width="30" height="30" rx="10" fill="#C4B5FD" fill-opacity="0.14"/>
+
+    <text x="144" y="145" fill="white" fill-opacity="0.94" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">DEPLOYABLE</text>
+    <text x="144" y="193" fill="white" fill-opacity="0.88" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">REVIEWABLE</text>
+    <text x="144" y="241" fill="white" fill-opacity="0.82" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">INTENTIONAL</text>
   </g>
 
-  <g opacity="0.9">
-    <circle cx="150" cy="104" r="2" fill="#D1FAE5"/>
-    <circle cx="210" cy="86" r="1.6" fill="#BFDBFE"/>
-    <circle cx="1214" cy="94" r="2" fill="#BFDBFE"/>
-    <circle cx="1260" cy="128" r="1.8" fill="#C4B5FD"/>
-    <circle cx="188" cy="412" r="1.8" fill="#A5F3FC"/>
-    <circle cx="1206" cy="404" r="1.8" fill="#D1FAE5"/>
-    <circle cx="1090" cy="458" r="1.4" fill="white" fill-opacity="0.74"/>
-    <circle cx="308" cy="456" r="1.4" fill="white" fill-opacity="0.74"/>
+  <g>
+    <rect x="1092" y="106" width="170" height="44" rx="16" fill="white" fill-opacity="0.06"/>
+    <text x="1121" y="134" fill="#D1FAE5" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">PUBLIC WORK ONLY</text>
+  </g>
+
+  <g>
+    <rect x="1038" y="486" width="136" height="42" rx="14" fill="white" fill-opacity="0.06"/>
+    <rect x="1186" y="486" width="112" height="42" rx="14" fill="white" fill-opacity="0.06"/>
+    <text x="1068" y="513" fill="white" fill-opacity="0.92" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">ReceiptPulse</text>
+    <text x="1212" y="513" fill="white" fill-opacity="0.86" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">LumenStack</text>
+    <rect x="1080" y="538" width="98" height="42" rx="14" fill="white" fill-opacity="0.06"/>
+    <rect x="1190" y="538" width="108" height="42" rx="14" fill="white" fill-opacity="0.06"/>
+    <text x="1111" y="565" fill="white" fill-opacity="0.86" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">Atlasiq</text>
+    <text x="1218" y="565" fill="white" fill-opacity="0.82" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">Portfolio</text>
+  </g>
+
+  <g opacity="0.92">
+    <circle cx="172" cy="506" r="2" fill="#D1FAE5"/>
+    <circle cx="230" cy="476" r="1.7" fill="#A5F3FC"/>
+    <circle cx="1248" cy="468" r="1.8" fill="#BFDBFE"/>
+    <circle cx="1300" cy="506" r="1.6" fill="#C4B5FD"/>
+    <circle cx="346" cy="548" r="1.4" fill="white" fill-opacity="0.72"/>
+    <circle cx="1068" cy="88" r="1.5" fill="white" fill-opacity="0.76"/>
   </g>
 </svg>
