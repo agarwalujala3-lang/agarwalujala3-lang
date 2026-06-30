@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="assets/calm-ai-hero.svg" alt="" width="100%" />
-</div>
-
 # Ujala Agarwal
 
 <p align="center">
