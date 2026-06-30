@@ -41,6 +41,7 @@ This GitHub profile is designed as a public proof surface: active repositories, 
 | **Portfolio** | [ujala-portfolio-world.netlify.app](https://ujala-portfolio-world.netlify.app/) | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) | Interactive portfolio website for Ujala Agarwal |
 | **ReceiptPulse** | [receipt-pulse.netlify.app](https://receipt-pulse.netlify.app/) | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) | Serverless receipt processing system using AWS Textract and Lambda |
 | **LumenStack AI** | [lumenstack-ai.onrender.com](https://lumenstack-ai.onrender.com/) | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) | Public JavaScript repository with live app deployment |
+| **Atlasiq Ops Platform** | [atlasiq-ops-platform.onrender.com](https://atlasiq-ops-platform.onrender.com/) | [Atlasiq-Ops-Platform](https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform) | Public JavaScript repository with a live app deployment |
 
 ## Current Momentum
 
@@ -79,7 +80,7 @@ This GitHub profile is designed as a public proof surface: active repositories, 
       <h3>Atlasiq Ops Platform</h3>
       <p>Public JavaScript repository published as <code>Atlasiq-Ops-Platform</code>.</p>
       <p><strong>Stack:</strong> JavaScript</p>
-      <p><a href="https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform">Repo</a></p>
+      <p><a href="https://atlasiq-ops-platform.onrender.com/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform">Repo</a></p>
     </td>
   </tr>
 </table>
@@ -117,10 +118,12 @@ This GitHub profile is designed as a public proof surface: active repositories, 
 <details>
   <summary><strong>Profile Notes</strong></summary>
 
-- This README is intentionally grounded in repositories and live app links that are public on the GitHub account as of June 29, 2026.
+- This README is intentionally grounded in repositories and live app links that are public on the GitHub account as of June 30, 2026.
 - Live app links are included only where I could verify a current public deployment from your project repositories.
 - The layout stays GitHub-native on purpose, so it renders cleanly without custom CSS or scripts.
 
 </details>
+
+
 
 
