@@ -41,7 +41,7 @@
 | Product | What It Shows | Live App | Repository |
 | --- | --- | --- | --- |
 | **Portfolio** | Personal portfolio with polished presentation and public-facing UI work | [Open](https://ujala-portfolio-world.netlify.app/) | [ujala-portfolio](https://github.com/agarwalujala3-lang/ujala-portfolio) |
-| **ReceiptPulse** | Serverless receipt-processing workflow built around AWS Textract and Lambda | [Open](https://receipt-pulse.netlify.app/) | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
+| **ReceiptPulse** | Serverless receipt-processing workflow built around AWS Textract and Lambda | [Open](https://receiptpulse-cloud-demo.onrender.com/) | [ReceiptPulse](https://github.com/agarwalujala3-lang/ReceiptPulse) |
 | **LumenStack AI** | JavaScript application with a live deployed experience | [Open](https://lumenstack-ai.onrender.com/) | [LumenStack-AI](https://github.com/agarwalujala3-lang/LumenStack-AI) |
 | **Atlasiq Ops Platform** | Operations-focused JavaScript app with public deployment | [Open](https://atlasiq-ops-platform.onrender.com/) | [Atlasiq-Ops-Platform](https://github.com/agarwalujala3-lang/Atlasiq-Ops-Platform) |
 
