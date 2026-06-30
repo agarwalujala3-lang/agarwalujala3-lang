@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/agarwalujala3-lang/ujala-portfolio/main/content/portfolio-lockup.svg" alt="Ujala Agarwal" width="440" />
-
+  <img src="assets/calm-ai-hero.svg" alt="" width="980" />
   <h1>Ujala Agarwal</h1>
-  <p><strong>Final-year B.Tech student building cloud, AWS, and application-focused software projects.</strong></p>
-  <p>Public work focused on shipped repos, recent iteration, and product-style frontend presentation.</p>
+  <p><strong>Building production-minded cloud systems and polished web experiences.</strong></p>
+  <p>Final-year B.Tech student focused on AWS-backed workflows, cleaner frontend execution, and public projects with live deployments.</p>
+  <p><sub>Decorative visuals are kept separate from the hiring-relevant content, so the profile stays easy for recruiters, ATS tools, and AI-assisted screening to parse.</sub></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ujala-agarwal-30aa28283/">
@@ -27,12 +27,17 @@
     <a href="https://lumenstack-ai.onrender.com/">
       <img src="https://img.shields.io/badge/LumenStack_Live-123b66?style=for-the-badge&logo=render&logoColor=white" alt="LumenStack Live" />
     </a>
+    <a href="https://atlasiq-ops-platform.onrender.com/">
+      <img src="https://img.shields.io/badge/Atlasiq_Live-1E3A8A?style=for-the-badge&logo=render&logoColor=white" alt="Atlasiq Live" />
+    </a>
   </p>
 </div>
 
-## First Look
+## Profile Snapshot
 
-This GitHub profile is designed as a public proof surface: active repositories, live product links, and recent work that combines cloud workflows, application logic, and stronger frontend presentation.
+This GitHub profile is designed as a clean public proof surface: active repositories, verified live product links, and recent work that combines cloud workflows, application logic, and stronger frontend presentation.
+
+The visual layer is intentionally lightweight and GitHub-native. The important hiring signal stays in normal text, which helps readability for recruiters while keeping the page polished and distinctive.
 
 ## Live App Suite
 
@@ -95,7 +100,7 @@ This GitHub profile is designed as a public proof surface: active repositories, 
 | **DockerTestApp** | JavaScript repository | [DockerTestApp](https://github.com/agarwalujala3-lang/DockerTestApp) |
 | **Valentine** | JavaScript webpage project published as `VALENTINE-CHAUDHRAIN` | [VALENTINE-CHAUDHRAIN](https://github.com/agarwalujala3-lang/VALENTINE-CHAUDHRAIN) |
 
-## What The Profile Emphasizes
+## What This Profile Signals
 
 | Area | Current Direction |
 | --- | --- |
@@ -121,9 +126,6 @@ This GitHub profile is designed as a public proof surface: active repositories, 
 - This README is intentionally grounded in repositories and live app links that are public on the GitHub account as of June 30, 2026.
 - Live app links are included only where I could verify a current public deployment from your project repositories.
 - The layout stays GitHub-native on purpose, so it renders cleanly without custom CSS or scripts.
+- The hero banner is decorative only; all recruiter-facing information remains in selectable text for better accessibility and ATS compatibility.
 
 </details>
-
-
-
-
