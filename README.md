@@ -39,7 +39,7 @@
       <p><a href="https://receiptpulse-cloud-demo.onrender.com/">ReceiptPulse</a><br/>
       <a href="https://lumenstack-ai.onrender.com/">LumenStack AI</a><br/>
       <a href="https://atlasiq-ops-platform.onrender.com/">Atlasiq Ops Platform</a><br/>
-      <a href="https://ujala-portfolio-world.netlify.app/">Portfolio</a></p>
+      <a href="https://ujala-portfolio.onrender.com/">Portfolio</a></p>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
       <h3>Portfolio</h3>
       <p>Public portfolio site used as the presentation layer for projects, links, and hiring-facing narrative.</p>
       <p><code>HTML</code> <code>CSS</code> <code>Personal Brand</code></p>
-      <p><a href="https://ujala-portfolio-world.netlify.app/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/ujala-portfolio">Repository</a></p>
+      <p><a href="https://ujala-portfolio.onrender.com/">Live App</a> | <a href="https://github.com/agarwalujala3-lang/ujala-portfolio">Repository</a></p>
     </td>
   </tr>
 </table>
