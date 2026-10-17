@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/calm-ai-hero.svg" alt="Abstract visual representing cloud systems, live deployments, AWS workflows, and product interfaces" width="100%" />
+  <img src="assets/calm-ai-hero.svg" alt="Abstract visual representing cloud systems, live deployments, AWS workflows, and product interfaces" width="78%" />
 </div>
 
 <h1 align="center">Ujala Agarwal</h1>
